@@ -1,4 +1,8 @@
-# custom-cognito-authorizer-demo
+# Custom Cognito Authorizer Demo
+
+This example walkt through a basic demonstration of how to set up a custom authorizer with Cognito and API Gateway. Check out the full instructions [on our blog](https://broadwaylab.com/creating-a-cognito-custom-authorizer-lambda-function/).
+
+## SAM Boilerplate
 
 This project contains source code and supporting files for a serverless application that you can deploy with the SAM CLI. It includes the following files and folders.
 
